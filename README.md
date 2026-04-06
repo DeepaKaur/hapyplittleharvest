@@ -1,2 +1,2 @@
 # hapyplittleharvest
-Regression suite for Happy Little Harvest website
+Regression test suite for Happy Little Harvest website
