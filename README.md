@@ -11,8 +11,6 @@ This repository contains the end-to-end regression test suite for the Happy Litt
 - [Running Tests](#running-tests)
 - [Test Structure](#test-structure)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
