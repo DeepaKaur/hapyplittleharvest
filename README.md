@@ -124,10 +124,3 @@ Create a `.env` file with the following values:
 
 Additional Playwright configuration is available in `playwright.config.ts`.
 
-## Contributing
-
-Contributions are welcome. Please open an issue or submit a pull request for bug fixes, test improvements, or new coverage scenarios.
-
-## License
-
-This repository is provided without a license. Add a license file if needed for your project.
